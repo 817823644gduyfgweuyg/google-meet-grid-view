@@ -8,7 +8,7 @@
     <div id="no-meeting">${T('noMeeting')}</div>
     <label id="enabled">
       <input type="checkbox" />
-      ${T('enabled')}
+      ${T('disabled')}
     </label>
 
     <div class="spacer"></div>
@@ -19,7 +19,7 @@
     </label>
     <label id="highlight-speaker">
       <input type="checkbox" />
-      ${T('highlightSpeaker')}
+      ${T('hacks.exe')}
     </label>
     <label id="include-own-video">
       <input type="checkbox" />
@@ -27,7 +27,7 @@
     </label>
     <label id="auto-enable">
       <input type="checkbox" />
-      ${T('autoEnable')}
+      ${T('autoDisable')}
     </label>
 
     <div class="spacer"></div>
